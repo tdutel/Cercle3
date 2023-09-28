@@ -1,6 +1,6 @@
 
 
-# <p align="center">42_Minishell</p>
+# <p align="center">Minishell</p>
 
 <p align="center">Final grade :<br>
 <img src="https://badge42.vercel.app/api/v2/clhg8mkri004408mjejmx1weo/project/3087656" alt="tdutel's 42 minishell Score"/><br>
@@ -36,9 +36,9 @@ The program will then display a prompt, where the user can enter commands.
 This project is a part of the 42-Cursus curriculum and is intended for educational purposes. If you are a current student of 42, we strongly advise you not to copy this project or submit it as your own work, as it goes against the school's academic integrity policy. We will not be responsible for any misuse of the project or academic penalties that may arise from it. However, you are welcome to use this project as a reference or for learning purposes.
 
 ## 🙇 Author
+#### Timothé Dutel Le Vaillant
+- Github: [@tdutel](https://github.com/tdutel)<br>
+<img src="https://badge42.vercel.app/api/v2/clhg8mkri004408mjejmx1weo/stats?cursusId=21&coalitionId=305" alt="tdutel's 42 stats" /></a>
 #### Guillaume d'harcourt
 - Github: [@gd-harco](https://github.com/gd-harco)<br>
 <img src="https://badge42.vercel.app/api/v2/cle01db6o00650fmmx6igm6z3/stats?cursusId=21&coalitionId=305" alt="gd-harco's 42 stats" /></a>
-#### Timothé Dutel
-- Github: [@tdutel](https://github.com/tdutel)<br>
-<img src="https://badge42.vercel.app/api/v2/clhg8mkri004408mjejmx1weo/stats?cursusId=21&coalitionId=305" alt="tdutel's 42 stats" /></a>
